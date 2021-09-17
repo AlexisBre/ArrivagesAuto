@@ -45,8 +45,6 @@
         echo '<a href="addcar.php" class="logout">Ajouter une auto</a>';
       };
       ?>
-      <br>
-      Datas du mois séléctionné
     </div>
   </div>
 
